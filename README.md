@@ -1,4 +1,4 @@
-Sustainable Living Advisor 
+Sustainable Living Advisor Chatbot
 
 A guideline to build a no-cost LLM chatbot
 
